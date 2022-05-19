@@ -7,7 +7,7 @@
 97C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\source-map132974074960464342 1
 132C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\modules\esnext.object.iterate-keys.js132967159838692597 0
 118C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\workers\src\cpuCount.js132966786618968269 0
-78C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist132974130419976680 1
+78C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist132974145079269715 1
 134C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\caniuse-lite\data\features\css-marker-pseudo.js132966786636999200 0
 127C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\features\object\lookup-getter.js132967159878875936 0
 81C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\.vscode132974074261790233 1
@@ -262,7 +262,7 @@
 121C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\full\array\virtual\with.js132967159930276998 0
 95C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\boolbase132974074409263768 1
 120C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\es\instance\find-index.js132967159848373371 0
-100C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\js\views\recipeView.js132974077647645484 0
+100C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\js\views\recipeView.js132974145117480690 0
 106C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\safe-buffer\LICENSE132966786609452406 0
 110C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\braces\lib\constants.js132966789824265777 0
 91C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@swc132974074384914857 1
@@ -7460,8 +7460,8 @@
 101C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.20899e4e.css.map132974073341352759 0
 96C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.62406edb.js132967149960846146 0
 100C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.62406edb.js.map132967149960846146 0
-96C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.e37f48ea.js132974129368394492 0
-100C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.e37f48ea.js.map132974129368514139 0
+96C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.e37f48ea.js132974145078944325 0
+100C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.e37f48ea.js.map132974145079219728 0
 97C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.f7626f62.css132974085714841813 0
 101C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.f7626f62.css.map132974085715282559 0
 89C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.html132974130419926709 0
