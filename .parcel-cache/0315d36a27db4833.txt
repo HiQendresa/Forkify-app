@@ -1,16 +1,4 @@
-7464
-117C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\compressor-raw\LICENSE132966786609602324 0
-93C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\img\favicon.png132966383837832457 0
-117C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\es\reflect\own-keys.js132967159886871366 0
-119C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\stable\symbol\key-for.js132967159876067556 0
-103C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\terser\README.md132966786629760259 0
-111C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\nth-check\lib\compile.js132966786610639096 0
-113C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\full\array\with.js132967159930296997 0
-116C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\plugins\removeDoctype.js132966786627339994 0
-91C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\package-lock.json132967266357136688 0
-124C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\modules\es.promise.resolve.js132967159821322155 0
-101C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\posthtml\types132974074943896614 1
-113C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\yaml\browser\dist\index.js132966786615781871 0
+7466
 107C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\posthtml-render\dist132974074945192003 1
 111C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\abortcontroller-polyfill132974074404362422 1
 121C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\full\symbol\unscopables.js132967159925634808 0
@@ -19,11 +7,15 @@
 97C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\source-map132974074960464342 1
 132C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\modules\esnext.object.iterate-keys.js132967159838692597 0
 118C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\workers\src\cpuCount.js132966786618968269 0
-78C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist132974086637543320 1
+78C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist132974130419976680 1
 134C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\caniuse-lite\data\features\css-marker-pseudo.js132966786636999200 0
 127C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\features\object\lookup-getter.js132967159878875936 0
 81C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\.vscode132974074261790233 1
 115C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\source-map\lib\quick-sort.js132966786617747894 0
+84C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\.gitignore132974096558629272 0
+123C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\stable\date\to-iso-string.js132967159908649489 0
+116C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\terser\lib\compress\common.js132966786623304385 0
+125C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\terser\node_modules\commander\index.js132966786610848980 0
 118C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\source-map-js\lib\base64-vlq.js132966789823836040 0
 100C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\node-releases132974074933845146 1
 95C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\sass\_recipe.scss132966763622078588 0
@@ -71,7 +63,19 @@
 110C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\utility-types\README.md132966786619398034 0
 118C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\caniuse-lite\data\regions\MO.js132966786646117684 0
 118C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\modules\es.data-view.js132967159817634322 0
-84C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\index.html132974086634401113 0
+84C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\index.html132974130418552943 0
+117C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\compressor-raw\LICENSE132966786609602324 0
+93C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\img\favicon.png132966383837832457 0
+117C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\es\reflect\own-keys.js132967159886871366 0
+119C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\stable\symbol\key-for.js132967159876067556 0
+103C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\terser\README.md132966786629760259 0
+111C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\nth-check\lib\compile.js132966786610639096 0
+113C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\full\array\with.js132967159930296997 0
+116C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\plugins\removeDoctype.js132966786627339994 0
+91C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\package-lock.json132967266357136688 0
+124C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\modules\es.promise.resolve.js132967159821322155 0
+101C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\posthtml\types132974074943896614 1
+113C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\yaml\browser\dist\index.js132966786615781871 0
 91C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\sass132974074955091404 1
 116C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\regenerator-runtime\README.md132966786614058635 0
 114C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\watcher\binding.gyp132966786620667342 0
@@ -79,6 +83,11 @@
 120C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\weak-lru-cache\tests\benchmark.js132966786610848980 0
 116C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\css-select\lib\index.d.ts.map132966786621833908 0
 86C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\package.json132974072973740901 0
+90C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\img\logo.png132966384274216218 0
+108C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@trysound\sax\LICENSE132966786609372456 0
+110C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\lib\stringifier.js132966786630210259 0
+103C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\dotenv\README.md132966786614108608 0
+83C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\README.MD132974116526203922 0
 135C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\terser\node_modules\source-map\lib\base64-vlq.js132966786616848415 0
 112C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\yaml\browser\parse-cst.js132966786622424573 0
 101C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\nan\doc\new.md132966786625933718 0
@@ -100,7 +109,7 @@
 80C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\js132974075006864647 1
 117C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\immutable\dist\immutable.es.js132966789824235798 0
 136C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\utils\test\input\sourcemap\source-root.js132966786629800235 0
-94C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\js\controller.js132974076068347775 0
+94C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\js\controller.js132974128087057367 0
 110C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\parent-module\readme.md132966786612375539 0
 82C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\sass132974075008064573 1
 120C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\modules\es.reflect.get.js132967159821961795 0
@@ -116,7 +125,7 @@
 118C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\caniuse-lite\data\regions\MM.js132966786646067717 0
 113C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\react-refresh\package.json132966786617558004 0
 107C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\core\LICENSE132966786620267527 0
-91C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\js\helpers.js132974075855204163 0
+91C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\js\helpers.js132974123553779014 0
 107C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\terser\lib\minify.js132966786626720376 0
 92C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\sass\main.scss132966764395312036 0
 121C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\plugins\removeRasterImages.js132966786628819716 0
@@ -189,7 +198,7 @@
 115C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@lezer\common\dist\index.cjs132966786611648879 0
 139C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\optimizer-image\parcel-image.darwin-x64.node132966786625603904 0
 124C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\features\array\copy-within.js132967159806466816 0
-94C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\js\views\View.js132974076978686338 0
+94C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\js\views\View.js132974124322286820 0
 101C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\domhandler\lib132974074876857282 1
 96C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\lmdb\dict132974074914346171 1
 128C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\modules\es.typed-array.reverse.js132967159830693857 0
@@ -198,7 +207,7 @@
 122C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\plugins\removeScriptElement.js132966786628909659 0
 117C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\core\src\AssetGraph.js132966786622884318 0
 103C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\nan\package.json132966786609422427 0
-89C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\js\model.js132974075597249548 0
+89C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\js\model.js132974129368853774 0
 106C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\watcher\src132974074379415196 1
 109C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\type-fest\package.json132966786610409228 0
 120C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\full\instance\includes.js132967159862875075 0
@@ -209,12 +218,12 @@
 117C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\optimizer-svgo\LICENSE132966786609602324 0
 105C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\escalade\readme.md132966786614298506 0
 107C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\whatwg-url\README.md132966786618518220 0
-102C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\braces\index.js132966789823766070 0
-131C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\stable\reflect\prevent-extensions.js132967159889419901 0
-86C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\js\views132974075007664639 1
-105C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\source-map\LICENSE132966786611468984 0
 121C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\cosmiconfig\dist\Explorer.d.ts.map132966786619617900 0
 119C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\css-what\lib\commonjs\parse.d.ts132966786622544498 0
+102C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\braces\index.js132966789823766070 0
+86C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\js\views132974075007664639 1
+105C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\source-map\LICENSE132966786611468984 0
+131C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\stable\reflect\prevent-extensions.js132967159889419901 0
 114C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\plugins\removeTitle.js132966786629069569 0
 103C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\js\views\bookmarksView.js132974078257638309 0
 125C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\es\string\virtual\trim-left.js132967159918190442 0
@@ -286,9 +295,6 @@
 115C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\cosmiconfig\dist\Explorer.js132966786611558933 0
 119C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\plugins\removeDimensions.js132966786627180087 0
 91C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\img\icons.svg132966809115355854 0
-90C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\src\img\logo.png132966384274216218 0
-108C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@trysound\sax\LICENSE132966786609372456 0
-110C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\lib\stringifier.js132966786630210259 0
 103C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\type-fest\source132974074992212306 1
 115C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\full\dom-collections132974074642568132 1
 113C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\full\array\sort.js132967159901558058 0
@@ -315,8 +321,6 @@
 93C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@babel132974074268763424 1
 119C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\features\array\concat.js132967159803878295 0
 125C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\terser\node_modules\source-map\LICENSE132966786611458986 0
-118C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\htmlnano\lib\presets\ampSafe.js132966786610908940 0
-112C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\plugins\sortAttrs.js132966786630060092 0
 108C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\lmdb\rollup.config.js132966786634099640 0
 115C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\csso\lib\clean\WhiteSpace.js132966786628230553 0
 114C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\package-manager\lib132974074326151725 1
@@ -1114,8 +1118,8 @@
 113C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\whatwg-url\lib\URL-impl.js132966786611478974 0
 108C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\mdn-data\css\index.js132966786611768807 0
 128C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\full\array\virtual\copy-within.js132967159806580588 0
-119C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\plugins\sortDefsChildren.js132966786630120052 0
 122C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\whatwg-url\lib\url-state-machine.js132966786613272127 0
+119C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\plugins\sortDefsChildren.js132966786630120052 0
 129C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\stable\dom-collections\iterator.js132967159874968165 0
 110C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\full\observable132974074670466512 1
 110C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\features\bigint132974074591236490 1
@@ -1530,8 +1534,8 @@
 113C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\sass\types\value\list.d.ts132966789827872522 0
 127C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\stable\typed-array\find-index.js132967159848863097 0
 117C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\terser\node_modules\source-map132974074984762872 1
-130C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\terser\node_modules\source-map\CHANGELOG.md132966786610629108 0
 117C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\features\array\join.js132967159875477873 0
+130C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\terser\node_modules\source-map\CHANGELOG.md132966786610629108 0
 126C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\css-tree\lib\syntax\pseudo\nth-child.js132966786631829927 0
 143C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\package-manager\test\fixtures\empty\package.json132966786626053642 0
 121C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\terser\node_modules\source-map\lib132974074986462931 1
@@ -1575,8 +1579,6 @@
 133C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\caniuse-lite\data\features\css-text-spacing.js132966786637974840 0
 128C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\terser\node_modules\source-map\lib\url.js132966786621743957 0
 116C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\cosmiconfig\dist\loaders.d.ts132966786625993681 0
-116C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\terser\lib\compress\common.js132966786623304385 0
-125C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\terser\node_modules\commander\index.js132966786610848980 0
 95C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\bin132974074965364045 1
 127C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\modules\es.number.constructor.js132967159818733642 0
 138C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\modules\es.object.get-own-property-names.js132967159819513194 0
@@ -1730,6 +1732,8 @@
 128C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\plugins\removeUnknownsAndDefaults.js132966786629180602 0
 116C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\plugins\removeViewBox.js132966786629610344 0
 122C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\stable\instance\flat-map.js132967159852151207 0
+118C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\htmlnano\lib\presets\ampSafe.js132966786610908940 0
+112C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\plugins\sortAttrs.js132966786630060092 0
 117C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\optimizer-htmlnano\src132974074322751936 1
 115C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\svgo\plugins\_collections.js132966786614088618 0
 117C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\full\symbol\key-for.js132967159876047545 0
@@ -3093,7 +3097,6 @@
 103C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\dotenv\config.js132966786611369048 0
 119C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\stable\regexp\dot-all.js132967159811487785 0
 97C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\dotenv\lib132974074880257082 1
-103C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\dotenv\README.md132966786614108608 0
 99C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\domutils\lib132974074879257143 1
 103C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\domutils\LICENSE132966786609382448 0
 108C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\domutils\package.json132966786617727909 0
@@ -3867,7 +3870,6 @@
 118C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\stable\date\set-year.js132967159896665769 0
 132C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\source-map\dist\wasm-bindings.js.flow132966786615314897 0
 123C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\stable\date\to-gmt-string.js132967159908429617 0
-123C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\stable\date\to-iso-string.js132967159908649489 0
 111C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\@parcel\packager-raw\lib132974074333551281 1
 125C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\stable\array-buffer\is-view.js132967159873299127 0
 117C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\stable\array\concat.js132967159804008229 0
@@ -4111,8 +4113,6 @@
 116C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\actual\object\keys.js132967159876207455 0
 140C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\modules\es.object.get-own-property-symbols.js132967159819533182 0
 120C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\modules\es.object.keys.js132967159820342718 0
-127C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\caniuse-lite\data\features\ogg-vorbis.js132966786646912010 0
-121C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\features\array\iterator.js132967159874318541 0
 109C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\actual\btoa.js132967159800140433 0
 129C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\modules\es.object.lookup-setter.js132967159820392684 0
 134C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\modules\es.object.prevent-extensions.js132967159820432675 0
@@ -5416,6 +5416,8 @@
 121C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\features\array\includes.js132967159862695180 0
 121C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\features\array\is-array.js132967159870490722 0
 131C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\features\array\is-template-object.js132967159873189182 0
+127C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\caniuse-lite\data\features\ogg-vorbis.js132966786646912010 0
+121C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\features\array\iterator.js132967159874318541 0
 117C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\features\array\keys.js132967159876337382 0
 126C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\features\array\last-index-of.js132967159877496713 0
 122C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\node_modules\core-js\features\array\last-item.js132967159877866508 0
@@ -7458,8 +7460,8 @@
 101C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.20899e4e.css.map132974073341352759 0
 96C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.62406edb.js132967149960846146 0
 100C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.62406edb.js.map132967149960846146 0
-96C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.e37f48ea.js132974085715132640 0
-100C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.e37f48ea.js.map132974085715282559 0
+96C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.e37f48ea.js132974129368394492 0
+100C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.e37f48ea.js.map132974129368514139 0
 97C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.f7626f62.css132974085714841813 0
 101C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.f7626f62.css.map132974085715282559 0
-89C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.html132974086637443387 0
+89C:\Users\qendr\Desktop\forkify\Forkify App_ Building a Modern Application\dist\index.html132974130419926709 0
